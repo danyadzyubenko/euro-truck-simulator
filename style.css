@@ -1,0 +1,56 @@
+
+
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+img{
+     width: 300px;
+    
+}
+h1{
+    color: red;
+        text-align: center;}
+
+.cars{
+display: flex;
+justify-content: space-between;
+gap: 10px;
+flex-wrap: wrap;
+}
+
+article{
+    width:310px;
+    color: red;
+    border:5px double red ;
+    padding:5px;
+    box-shadow:  -2px -2px 81px -9px rgba(255,0,0,1);
+    text-align: center;
+}
+p{
+    color: red;
+    font-size:25px;
+}
+.info{
+text-align: center;
+
+}
+.info img{
+width: 700px;
+border-radius: 10px;
+margin-top: 20px;
+}
+ul{
+color: red;
+font-size: 20px;
+}
+a{font-weight: bold;
+font-size: 20px;
+text-decoration: none;
+border: 5px solid red;
+background-color: red;
+padding: 20px;
+color: black;
+border-radius: 12px;
+margin: 15px;
+}
